@@ -1,10 +1,29 @@
-h1{
+h1{ padding-top: 350px;
     text-align: center;
 }
-h2{
+
+    h2{
     text-align: center;
 }
 h3{
     text-align: center;
     font-size: small;
+}
+#steps{
+   background-image: url(/h_img.jpg);
+   color: white;
+}
+img{
+    padding-left: 500px     ;
+}
+.par{
+    text-align: center;
+}
+.services{
+    text-align: center;
+    color: black;
+    background-image: url(../IP3/IP3/assets/backgrounds/s_image.jpg);
+}
+.container1{
+    background-image: url(/IP3/assets/backgrounds/s_image.jpg);
 }
