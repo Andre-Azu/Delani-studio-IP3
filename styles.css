@@ -27,3 +27,24 @@ img{
 .container1{
     background-image: url(/IP3/assets/backgrounds/s_image.jpg);
 }
+.form1{
+    background-image: url(/IP3/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+} 
+::placeholder{
+    color: white;
+}
+input{
+    background: transparent;
+    border: 1px white solid;
+}
+#name,#mail{
+    width: 25%;
+}
+#msg{
+    height: 200px;
+    width: 50%;
+}
